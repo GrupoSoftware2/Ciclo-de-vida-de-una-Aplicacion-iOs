@@ -52,6 +52,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         print("Aplicacion terminada")
     }
+    
+    
 
 
 }
