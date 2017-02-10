@@ -12,6 +12,7 @@
 		FBD6E04F1E4D3E0E00F81147 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBD6E04D1E4D3E0E00F81147 /* Main.storyboard */; };
 		FBD6E0511E4D3E0E00F81147 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBD6E0501E4D3E0E00F81147 /* Assets.xcassets */; };
 		FBD6E0541E4D3E0E00F81147 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBD6E0521E4D3E0E00F81147 /* LaunchScreen.storyboard */; };
+		FBD6E05C1E4D41A800F81147 /* SiguienteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBD6E05B1E4D41A800F81147 /* SiguienteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FBD6E0501E4D3E0E00F81147 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBD6E0531E4D3E0E00F81147 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBD6E0551E4D3E0E00F81147 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBD6E05B1E4D41A800F81147 /* SiguienteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiguienteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FBD6E0501E4D3E0E00F81147 /* Assets.xcassets */,
 				FBD6E0521E4D3E0E00F81147 /* LaunchScreen.storyboard */,
 				FBD6E0551E4D3E0E00F81147 /* Info.plist */,
+				FBD6E05B1E4D41A800F81147 /* SiguienteViewController.swift */,
 			);
 			path = "Ciclo de vida de una Aplicacion iOs";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBD6E04C1E4D3E0E00F81147 /* ViewController.swift in Sources */,
+				FBD6E05C1E4D41A800F81147 /* SiguienteViewController.swift in Sources */,
 				FBD6E04A1E4D3E0E00F81147 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				FBD6E05A1E4D3E0E00F81147 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
